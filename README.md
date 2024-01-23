@@ -3,6 +3,6 @@ puxador de dados
 # Comandos 
 git clone https://github.com/IranPakrlh/Lspainel
 
-cd lspainel
+cd Lspainel
 
 python3 lsPainel.py
