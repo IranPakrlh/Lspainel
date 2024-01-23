@@ -5,4 +5,4 @@ git clone https://github.com/IranPakrlh/Lspainel
 
 cd lspainel
 
-python3 lspainel.py
+python3 lsPainel.py
